@@ -39,7 +39,7 @@ Il est conçu pour vous aider à rester **anonyme**, **protéger vos fichiers**,
 
 Aucune installation requise :
 
-1. Téléchargez le fichier **`ShadowVault.exe`**
+1. Téléchargez le fichier **`main.exe`**
 2. Double-cliquez simplement pour le lancer
 3. Profitez des fonctionnalités
 
@@ -47,7 +47,7 @@ Aucune installation requise :
 Vous pouvez le vérifier vous-même ici :  
 👉 [Vérification VirusTotal](https://www.virustotal.com/gui/home/upload)
 
--
+
 
 ## 📩 Support & Contact
 
